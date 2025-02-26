@@ -95,15 +95,14 @@ Sou apaixonado por tecnologia e compartilho meu cresecimento através do Linkedi
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=PauloHenriqueSG77&show_icons=true&theme=highcontrast"
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenriqueSG77&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
